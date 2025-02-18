@@ -48,6 +48,8 @@ int main() {
 }
 
 /*
+    https://www.acmicpc.net/problem/2740
+    
     문제 설명: 2740 행렬 곱셈
     N*M크기의 행렬 A와 M*K크기의 행렬 B가 주어졌을 때, 두 행렬을 곱하는 프로그램을 작성하시오.
 
